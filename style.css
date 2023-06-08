@@ -1,0 +1,6 @@
+*{margin: 0;padding: 0;}
+body{background: yellow;}
+#myVideo{width: 720px;height: 400px;background: black;margin: auto;border: 2px solid red;border-radius: 16px;}
+.a1{text-align: center;position: relative;top: 60px;}
+.o{width: 200px;height: 36px;background: lightpink;margin: 20px;font-size: 26px;font-weight: 900;color: red;border: 2px solid red;}
+#v{width: 200px;height: 36px;background: lightpink;font-size: 26px;font-weight: 900;color: red;border:2px solid red;}
